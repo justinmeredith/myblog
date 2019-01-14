@@ -19,7 +19,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate:         5
 paginate_path: "page:num"
 
