@@ -7,16 +7,16 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            The Young & Stupid Show
+tagline:          'A boring blog'
+description:      ""
 url:              http://hyde.getpoole.com
 baseurl:          /
 plugins:
   - jekyll-paginate
 
 author:
-  name:           'Mark Otto'
+  name:           'Justin Meredith'
   url:            https://twitter.com/mdo
 
 plugins: [jekyll-paginate]
